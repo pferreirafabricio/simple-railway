@@ -1,13 +1,8 @@
 # 🚉 Simple Railway
 
-<p align="left">
 A simple application of the Railway Oriented Programming (ROP) in C#
-  <br><br>
-  <!-- License -->
-  <a>
-    <img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
-  </a>
-</p>
+
+<img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=61ffca">
 
 ## 📖 About
 
