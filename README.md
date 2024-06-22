@@ -1,7 +1,7 @@
 # 🚉 Simple Railway
 
 <p align="left">
-A simple application of the Railway Oriented Programming in C#
+A simple application of the Railway Oriented Programming (ROP) in C#
   <br><br>
   <!-- License -->
   <a>
@@ -11,7 +11,7 @@ A simple application of the Railway Oriented Programming in C#
 
 ## 📖 About
 
-Simple Railway is a C# application that demonstrates the use of Railway Oriented Programming (ROP) to handle errors in a functional programming style. This project is designed to showcase how ROP can simplify error handling by structuring functions and methods in a way that errors can be passed along a "railway" of function calls, making the code more readable, maintainable, and less prone to runtime errors.
+Simple Railway is a C# application that demonstrates the use of Railway Oriented Programming (ROP) to handle errors in a functional programming style. This project is designed to showcase how ROP can simplify error handling by structuring functions and methods to pass errors along a "railway" of function calls, making the code more readable, maintainable, and less prone to runtime errors.
 
 ## 🏄‍♂️ Quick Start
 
